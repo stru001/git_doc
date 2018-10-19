@@ -2,6 +2,10 @@ Git
 
 说明：是一个分布式的版本控制工具，但它只能捕获文本内容的更改，对于二进制的内容更改做记录，例如：图片、视频、word等都不可以。
 
-安装验证：下载解压->./configure /usr/local/git ->make && make install->vim /etc/bashrc ->export PATH->source /etc/bashrc->git --version
+安装：下载解压->./configure /usr/local/git ->make && make install->vim /etc/bashrc ->export PATH->source /etc/bashrc
+
+验证：git --version
+
+
 
 
