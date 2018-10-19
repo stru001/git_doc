@@ -6,6 +6,8 @@ Git
 
 验证：git --version
 
+使用：git niub
+
 
 
 
